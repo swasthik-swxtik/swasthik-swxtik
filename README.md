@@ -16,6 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=swasthik-swxtik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+![Snake animation](https://github.com/swasthik-swxTik/swasthik-swxTik/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
